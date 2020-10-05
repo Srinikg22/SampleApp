@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.AssemblyInfo.cs
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.TagHelpers.input.cache
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.TagHelpers.output.cache
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.dll
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.pdb
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CoreMVC\obj\Debug\netcoreapp3.1\CoreMVC.RazorComponent.input.cache

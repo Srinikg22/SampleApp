@@ -1,0 +1,3 @@
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp2.0\EMR.WebApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp2.0\EMR.WebApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp2.0\EMR.WebApp.AssemblyInfo.cs

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ParellelProgramming\ParellelProgramming\bin\Debug\ParellelProgramming.exe.config
+C:\Users\user\source\repos\ParellelProgramming\ParellelProgramming\bin\Debug\ParellelProgramming.exe
+C:\Users\user\source\repos\ParellelProgramming\ParellelProgramming\bin\Debug\ParellelProgramming.pdb
+C:\Users\user\source\repos\ParellelProgramming\ParellelProgramming\obj\Debug\ParellelProgramming.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ParellelProgramming\ParellelProgramming\obj\Debug\ParellelProgramming.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ParellelProgramming\ParellelProgramming\obj\Debug\ParellelProgramming.exe
+C:\Users\user\source\repos\ParellelProgramming\ParellelProgramming\obj\Debug\ParellelProgramming.pdb

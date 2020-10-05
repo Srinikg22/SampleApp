@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.AssemblyInfo.cs
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.TagHelpers.input.cache
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.TagHelpers.output.cache
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.dll
+C:\Users\user\source\repos\EMR.WebApp\obj\Debug\netcoreapp3.0\EMR.WebApp.pdb
